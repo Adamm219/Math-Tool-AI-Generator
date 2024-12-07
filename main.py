@@ -133,6 +133,6 @@ def main():
     print(f"Total Questions: {num_questions}")
     print(f"Correct Answers: {correct_answers}")
     print(f"Accuracy: {accuracy:.2f}%")
-    print("Hello")
+    print("Hello test")
 if _name_ == "_main_":
      main()
